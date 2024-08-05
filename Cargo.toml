@@ -14,3 +14,4 @@ strum = { version = "0.26.3", features = ["derive"]}
 ssh2 = "0.9.4"
 actix-cors = "0.7.0"
 serde_json = "1.0.121"
+dotenv = "0.15.0"
